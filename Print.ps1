@@ -1,5 +1,5 @@
-﻿$Name = args[0]
-$age = args[1]
+﻿$Name = $args[0]
+$age = $args[1]
 
 Wtite-Host "**************"
 
